@@ -75,8 +75,8 @@
             "module": "my-shared-module"
         }
     ],
-    "manifest": "http://fgen.lffg.org/module/manifest/eyJuYW1lIjoibXktc2hhcmVkLW1vZHVsZSIsInRpdGxlIjoiTXkgc2hhcmVkIG1vZHVsZSIsImF1dGhvciI6Ik1hcnMiLCJkZXNjcmlwdGlvbiI6IiIsInN5c3RlbSI6InRvcjJlIiwicGFja3MiOlt7Im5hbWUiOiJtb25zdHJlcyIsImxhYmVsIjoiTW9uc3RyZXMiLCJ0eXBlIjoiQWN0b3IifSx7Im5hbWUiOiJuYWlucyIsImxhYmVsIjoiTmFpbnMiLCJ0eXBlIjoiQWN0b3IifSx7Im5hbWUiOiJodW1haW5zIiwibGFiZWwiOiJIdW1haW5zIiwidHlwZSI6IkFjdG9yIn0seyJuYW1lIjoiZWxmZXMiLCJsYWJlbCI6IkVsZmVzIiwidHlwZSI6IkFjdG9yIn0seyJuYW1lIjoiaG9iYml0cyIsImxhYmVsIjoiSG9iYml0cyIsInR5cGUiOiJBY3RvciJ9LHsibmFtZSI6InNjZW5lcyIsImxhYmVsIjoiU2NlbmVzIiwidHlwZSI6IlNjZW5lIn0seyJuYW1lIjoicGxheWxpc3QiLCJsYWJlbCI6IlBsYXlsaXN0IiwidHlwZSI6IlBsYXlsaXN0In0seyJuYW1lIjoiaXRlbXMiLCJsYWJlbCI6Ikl0ZW1zIiwidHlwZSI6Ikl0ZW0ifV19/module.json",
-    "download": "http://fgen.lffg.org/module/download/eyJuYW1lIjoibXktc2hhcmVkLW1vZHVsZSIsInRpdGxlIjoiTXkgc2hhcmVkIG1vZHVsZSIsImF1dGhvciI6Ik1hcnMiLCJkZXNjcmlwdGlvbiI6IiIsInN5c3RlbSI6InRvcjJlIiwicGFja3MiOlt7Im5hbWUiOiJtb25zdHJlcyIsImxhYmVsIjoiTW9uc3RyZXMiLCJ0eXBlIjoiQWN0b3IifSx7Im5hbWUiOiJuYWlucyIsImxhYmVsIjoiTmFpbnMiLCJ0eXBlIjoiQWN0b3IifSx7Im5hbWUiOiJodW1haW5zIiwibGFiZWwiOiJIdW1haW5zIiwidHlwZSI6IkFjdG9yIn0seyJuYW1lIjoiZWxmZXMiLCJsYWJlbCI6IkVsZmVzIiwidHlwZSI6IkFjdG9yIn0seyJuYW1lIjoiaG9iYml0cyIsImxhYmVsIjoiSG9iYml0cyIsInR5cGUiOiJBY3RvciJ9LHsibmFtZSI6InNjZW5lcyIsImxhYmVsIjoiU2NlbmVzIiwidHlwZSI6IlNjZW5lIn0seyJuYW1lIjoicGxheWxpc3QiLCJsYWJlbCI6IlBsYXlsaXN0IiwidHlwZSI6IlBsYXlsaXN0In0seyJuYW1lIjoiaXRlbXMiLCJsYWJlbCI6Ikl0ZW1zIiwidHlwZSI6Ikl0ZW0ifV19/download.zip",
+    "manifest": "https://raw.githubusercontent.com/Mario2206/foundry-vtt-shared-module/main/module.json",
+    "download": "https://github.com/Mario2206/foundry-vtt-shared-module/archive/refs/tags/bin.zip",
     "id": "my-shared-module",
     "authors": [
         {
