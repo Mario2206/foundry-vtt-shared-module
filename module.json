@@ -1,0 +1,93 @@
+{
+    "name": "my-shared-module",
+    "title": "My shared module",
+    "author": "Mars",
+    "description": "",
+    "packs": [
+        {
+            "name": "monstres",
+            "label": "Monstres",
+            "type": "Actor",
+            "system": "tor2e",
+            "path": "packs/monstres.db",
+            "entity": "Actor",
+            "module": "my-shared-module"
+        },
+        {
+            "name": "nains",
+            "label": "Nains",
+            "type": "Actor",
+            "system": "tor2e",
+            "path": "packs/nains.db",
+            "entity": "Actor",
+            "module": "my-shared-module"
+        },
+        {
+            "name": "humains",
+            "label": "Humains",
+            "type": "Actor",
+            "system": "tor2e",
+            "path": "packs/humains.db",
+            "entity": "Actor",
+            "module": "my-shared-module"
+        },
+        {
+            "name": "elfes",
+            "label": "Elfes",
+            "type": "Actor",
+            "system": "tor2e",
+            "path": "packs/elfes.db",
+            "entity": "Actor",
+            "module": "my-shared-module"
+        },
+        {
+            "name": "hobbits",
+            "label": "Hobbits",
+            "type": "Actor",
+            "system": "tor2e",
+            "path": "packs/hobbits.db",
+            "entity": "Actor",
+            "module": "my-shared-module"
+        },
+        {
+            "name": "scenes",
+            "label": "Scenes",
+            "type": "Scene",
+            "path": "packs/scenes.db",
+            "entity": "Scene",
+            "module": "my-shared-module"
+        },
+        {
+            "name": "playlist",
+            "label": "Playlist",
+            "type": "Playlist",
+            "path": "packs/playlist.db",
+            "entity": "Playlist",
+            "module": "my-shared-module"
+        },
+        {
+            "name": "items",
+            "label": "Items",
+            "type": "Item",
+            "system": "tor2e",
+            "path": "packs/items.db",
+            "entity": "Item",
+            "module": "my-shared-module"
+        }
+    ],
+    "manifest": "http://fgen.lffg.org/module/manifest/eyJuYW1lIjoibXktc2hhcmVkLW1vZHVsZSIsInRpdGxlIjoiTXkgc2hhcmVkIG1vZHVsZSIsImF1dGhvciI6Ik1hcnMiLCJkZXNjcmlwdGlvbiI6IiIsInN5c3RlbSI6InRvcjJlIiwicGFja3MiOlt7Im5hbWUiOiJtb25zdHJlcyIsImxhYmVsIjoiTW9uc3RyZXMiLCJ0eXBlIjoiQWN0b3IifSx7Im5hbWUiOiJuYWlucyIsImxhYmVsIjoiTmFpbnMiLCJ0eXBlIjoiQWN0b3IifSx7Im5hbWUiOiJodW1haW5zIiwibGFiZWwiOiJIdW1haW5zIiwidHlwZSI6IkFjdG9yIn0seyJuYW1lIjoiZWxmZXMiLCJsYWJlbCI6IkVsZmVzIiwidHlwZSI6IkFjdG9yIn0seyJuYW1lIjoiaG9iYml0cyIsImxhYmVsIjoiSG9iYml0cyIsInR5cGUiOiJBY3RvciJ9LHsibmFtZSI6InNjZW5lcyIsImxhYmVsIjoiU2NlbmVzIiwidHlwZSI6IlNjZW5lIn0seyJuYW1lIjoicGxheWxpc3QiLCJsYWJlbCI6IlBsYXlsaXN0IiwidHlwZSI6IlBsYXlsaXN0In0seyJuYW1lIjoiaXRlbXMiLCJsYWJlbCI6Ikl0ZW1zIiwidHlwZSI6Ikl0ZW0ifV19/module.json",
+    "download": "http://fgen.lffg.org/module/download/eyJuYW1lIjoibXktc2hhcmVkLW1vZHVsZSIsInRpdGxlIjoiTXkgc2hhcmVkIG1vZHVsZSIsImF1dGhvciI6Ik1hcnMiLCJkZXNjcmlwdGlvbiI6IiIsInN5c3RlbSI6InRvcjJlIiwicGFja3MiOlt7Im5hbWUiOiJtb25zdHJlcyIsImxhYmVsIjoiTW9uc3RyZXMiLCJ0eXBlIjoiQWN0b3IifSx7Im5hbWUiOiJuYWlucyIsImxhYmVsIjoiTmFpbnMiLCJ0eXBlIjoiQWN0b3IifSx7Im5hbWUiOiJodW1haW5zIiwibGFiZWwiOiJIdW1haW5zIiwidHlwZSI6IkFjdG9yIn0seyJuYW1lIjoiZWxmZXMiLCJsYWJlbCI6IkVsZmVzIiwidHlwZSI6IkFjdG9yIn0seyJuYW1lIjoiaG9iYml0cyIsImxhYmVsIjoiSG9iYml0cyIsInR5cGUiOiJBY3RvciJ9LHsibmFtZSI6InNjZW5lcyIsImxhYmVsIjoiU2NlbmVzIiwidHlwZSI6IlNjZW5lIn0seyJuYW1lIjoicGxheWxpc3QiLCJsYWJlbCI6IlBsYXlsaXN0IiwidHlwZSI6IlBsYXlsaXN0In0seyJuYW1lIjoiaXRlbXMiLCJsYWJlbCI6Ikl0ZW1zIiwidHlwZSI6Ikl0ZW0ifV19/download.zip",
+    "id": "my-shared-module",
+    "authors": [
+        {
+            "name": "Mars"
+        }
+    ],
+    "minimumCoreVersion": "0.8.0",
+    "compatibleCoreVersion": "9",
+    "compatibility": {
+        "minimum": 9,
+        "verified": 10
+    },
+    "version": "1.1"
+}
